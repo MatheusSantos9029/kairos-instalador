@@ -2,6 +2,8 @@
 
 Este repositório só distribui o **instalador do Kairos**, o aplicativo de produtividade e disparos para Windows. Ele **não contém o código-fonte**.
 
+**Desenvolvido por Matheus Santos. Todos os direitos reservados** (veja o arquivo [LICENSE](LICENSE)).
+
 ## Como instalar
 
 1. Na coluna da direita desta página, abra **Releases** e baixe o arquivo `Kairos-Setup.exe` da versão mais nova.
